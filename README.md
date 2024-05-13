@@ -1,2 +1,1 @@
-# django-blog
-idk
+<h2>idk bruh</h2>
